@@ -1,3 +1,13 @@
 # projects
-
-this is where we publish the source code.
+- [c128](https://github.com/michaeljclark/c128) - 128-bit integer type with logic, shifts, arithmetic and bitmanip.
+- [chashmap](https://github.com/michaeljclark/chashmap) - simple open addressing hashmap, and linked hashmap in C11.
+- [cpipe](https://github.com/michaeljclark/cpipe) - low latency concurrent pipe buffer using C11 threads and atomics.
+- [crefl](https://github.com/michaeljclark/crefl) - a C-type-reflection-API and clang plug-in to write reflection metadata.
+- [cutty](https://github.com/michaeljclark/cutty) - an OpenGL terminal emulator using FreeType and HarfBuzz.
+- [glcube](https://github.com/michaeljclark/glcube) - glcube is OpenGL cube demo in C11 using programmable shaders.
+- [mule](https://github.com/michaeljclark/mule) - simple thread pool implementation using the C11 thread support library.
+- [vf128](https://github.com/michaeljclark/vf128) -  variable length floating-point data format for IEEE 754 floating-point values.
+- [x86](https://github.com/michaeljclark/x86) - lightweight metadata driven x86 instruction encoder and decoder library.
+- [xi](https://github.com/michaeljclark/xi) - Xi (aka ξ) is a search tool for the Unicode Character Database.
+- [xsnprintf](https://github.com/michaeljclark/xsnprintf) - simplified high-performance snprintf string formatting replacement.
+- [zvec](https://github.com/michaeljclark/zvec) - zip_vector is a compressed variable length array that uses vectorized block codecs.

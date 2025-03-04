@@ -22,9 +22,9 @@
 - [zvec](https://github.com/michaeljclark/zvec) - zip_vector compressed variable length array using vectorized block codecs.
 
 # branches
-- [libedit](https://github.com/michaeljclark/libedit) - cross-platform port of libedit/termcap/curses to Windows, BSD, macOS and Linux.
 - [giflib](https://github.com/michaeljclark/giflib) - cross-platform port of giflib that uses CMake on Windows, BSD, macOS and Linux.
 - [glkitty](https://github.com/michaeljclark/glkitty) - port of the OpenGL gears demo to the kitty terminal graphics protocol.
+- [libedit](https://github.com/michaeljclark/libedit) - cross-platform port of libedit/termcap/curses to Windows, BSD, macOS and Linux.
 - [minilisp](https://github.com/michaeljclark/minilisp/tree/repl) - branch of minilisp with a [libedit](https://github.com/michaeljclark/libedit) repl for Windows, BSD, macOS and Linux.
 - [qemu](https://github.com/michaeljclark/qemu/tree/x86-mini-v2) - branch of QEMU with an embedded [x86](https://github.com/michaeljclark/x86) disassembler.
 - [vkgears](https://github.com/michaeljclark/vkgears) - port of the iconic gears demo to GLSL and the Vulkan API using GLFW.

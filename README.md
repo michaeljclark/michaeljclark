@@ -28,3 +28,12 @@
 - [minilisp](https://github.com/michaeljclark/minilisp/tree/repl) - branch of minilisp with a [libedit](https://github.com/michaeljclark/libedit) repl for Windows, BSD, macOS and Linux.
 - [qemu](https://github.com/michaeljclark/qemu/tree/x86-mini-v2) - branch of QEMU with an embedded [x86](https://github.com/michaeljclark/x86) disassembler.
 - [vkgears](https://github.com/michaeljclark/vkgears) - port of the iconic gears demo to GLSL and the Vulkan API using GLFW.
+
+# gists
+- [ftload](https://gist.github.com/michaeljclark/22ddfb74c09e2aabd30994a991325fc9) - loading a TrueType Bézier curve for a codepoint using FreeType.
+- [gnu-stack](https://gist.github.com/michaeljclark/441e9096e79bbab75fa1700e33414332) - search for Linux ELF executables with executable stack.
+- [llvm-disassemby](https://gist.github.com/michaeljclark/d94b72fa3d580ea2037e0a4dc5e2fc5b) - five ways to programmatically invoke the LLVM disassembler.
+- [pattern-synth](https://gist.github.com/michaeljclark/ea2cd16b11ccfa36874c4a4fd38f78b5) - succinct combinatorial bit pattern synthesizer in Python.
+- [phydate](https://gist.github.com/michaeljclark/28dc095e0f0385e8eb2568349071712e) - a 128-bit variable width datetime format.
+- [pythag-triples](https://gist.github.com/michaeljclark/96b378046ed821fec3b7aaa42143597e) - find largest 32-bit Pythagorean integer triple with a 64-bit square.
+- [ref-counting](https://gist.github.com/michaeljclark/5a5c1463a5a0a1444f936e8f149bae2e) - draft on the design of a reference counting system.

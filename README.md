@@ -19,7 +19,7 @@
 - [x86](https://github.com/michaeljclark/x86) - lightweight metadata driven x86 instruction encoder and decoder library.
 - [xi](https://github.com/michaeljclark/xi) - Xi (aka ξ) is a search tool for the Unicode Character Database.
 - [xsnprintf](https://github.com/michaeljclark/xsnprintf) - simplified high-performance snprintf string formatting replacement.
-- [zvec](https://github.com/michaeljclark/zvec) - zip_vector is a compressed variable length array that uses vectorized block codecs.
+- [zvec](https://github.com/michaeljclark/zvec) - zip_vector compressed variable length array using vectorized block codecs.
 
 # branches
 - [libedit](https://github.com/michaeljclark/libedit) - cross-platform port of libedit/termcap/curses to Windows, BSD, macOS and Linux.

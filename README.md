@@ -11,6 +11,7 @@
 - [glcube](https://github.com/michaeljclark/glcube) - glcube is OpenGL cube demo in C11 using programmable shaders.
 - [glhull](https://github.com/michaeljclark/glhull) - glhull is an experiment to render béziergon convex interior hulls.
 - [glyb](https://github.com/michaeljclark/glyb) -  text rendering and canvas experiment built on FreeType and HarfBuzz.
+- [glyph](https://github.com/michaeljclark/glyph) -  super regular RISC that encodes constants in immediate blocks.
 - [glxsync](https://github.com/michaeljclark/glxsync) - glxsync extended frame synchronization for OpenGL with X11.
 - [maj2random](https://github.com/michaeljclark/maj2random) - maj2random is a floating-point hash function derived from SHA-2.
 - [match](https://github.com/michaeljclark/match) - Rabin–Karp algorithm in C++ to find recurring substrings in a string.

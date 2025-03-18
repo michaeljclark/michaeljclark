@@ -16,6 +16,7 @@
 - [maj2random](https://github.com/michaeljclark/maj2random) - maj2random is a floating-point hash function derived from SHA-2.
 - [match](https://github.com/michaeljclark/match) - Rabin–Karp algorithm in C++ to find recurring substrings in a string.
 - [mule](https://github.com/michaeljclark/mule) - simple thread pool implementation using the C11 thread support library.
+- [sushi](https://github.com/michaeljclark/sushi) - work-in-progress on an Xcode, Visual Studio, and Ninja project generator.
 - [vf128](https://github.com/michaeljclark/vf128) -  variable length floating-point data format for IEEE 754 floating-point values.
 - [x86](https://github.com/michaeljclark/x86) - lightweight metadata driven x86 instruction encoder and decoder library.
 - [xi](https://github.com/michaeljclark/xi) - Xi (aka ξ) is a search tool for the Unicode Character Database.

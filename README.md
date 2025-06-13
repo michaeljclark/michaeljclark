@@ -10,6 +10,7 @@
 - [emu](https://github.com/michaeljclark/emu) - tiny x86 emulator example using the Windows Hypervisor Platform API.
 - [glcube](https://github.com/michaeljclark/glcube) - glcube is OpenGL cube demo in C11 using programmable shaders.
 - [glhull](https://github.com/michaeljclark/glhull) - glhull is an experiment to render béziergon convex interior hulls.
+- [glome](https://github.com/michaeljclark/glome) - glome is a tesselated octahedron demo using a nanovg 3D canvas.
 - [glyb](https://github.com/michaeljclark/glyb) -  text rendering and canvas experiment built on FreeType and HarfBuzz.
 - [glyph](https://github.com/michaeljclark/glyph) -  super regular RISC that encodes constants in immediate blocks.
 - [glxsync](https://github.com/michaeljclark/glxsync) - glxsync extended frame synchronization for OpenGL with X11.

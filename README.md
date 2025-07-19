@@ -3,9 +3,9 @@
 - [c128](https://github.com/michaeljclark/c128) - 128-bit integer type with logic, shifts, arithmetic and bitmanip.
 - [c11atomic](https://github.com/michaeljclark/c11atomic) - C11 <stdatomic.h> compatibility headers for MSVC++.
 - [chashmap](https://github.com/michaeljclark/chashmap) - simple open addressing hashmap, and linked hashmap in C11.
+- [cinf](https://github.com/michaeljclark/cinf) - a C-type-reflection-API and clang plug-in to write reflection metadata.
 - [cpipe](https://github.com/michaeljclark/cpipe) - low latency concurrent pipe buffer using C11 threads and atomics.
 - [cpuident](https://github.com/michaeljclark/cpuident) - a portable C program to read x86-64 cpuid processor information.
-- [crefl](https://github.com/michaeljclark/crefl) - a C-type-reflection-API and clang plug-in to write reflection metadata.
 - [cutty](https://github.com/michaeljclark/cutty) - an OpenGL terminal emulator using FreeType and HarfBuzz.
 - [emu](https://github.com/michaeljclark/emu) - tiny x86 emulator example using the Windows Hypervisor Platform API.
 - [glcube](https://github.com/michaeljclark/glcube) - glcube is OpenGL cube demo in C11 using programmable shaders.

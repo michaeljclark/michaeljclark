@@ -5,6 +5,7 @@
 - [chashmap](https://github.com/michaeljclark/chashmap) - simple open addressing hashmap, and linked hashmap in C11.
 - [cinf](https://github.com/michaeljclark/cinf) - a C-type-reflection-API and clang plug-in to write reflection metadata.
 - [cpipe](https://github.com/michaeljclark/cpipe) - low latency concurrent pipe buffer using C11 threads and atomics.
+- [cpphashmap](https://github.com/michaeljclark/cpphashmap) - fast open addressing hashmap, and linked hashmap in C++.
 - [cpuident](https://github.com/michaeljclark/cpuident) - a portable C program to read x86-64 cpuid processor information.
 - [cutty](https://github.com/michaeljclark/cutty) - an OpenGL terminal emulator using FreeType and HarfBuzz.
 - [emu](https://github.com/michaeljclark/emu) - tiny x86 emulator example using the Windows Hypervisor Platform API.

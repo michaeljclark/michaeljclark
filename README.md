@@ -1,5 +1,6 @@
 # projects
 - [async_tls](https://github.com/michaeljclark/async_tls) - a very simple example of asynchronous TLS using OpenSSL.
+- [bignum](https://github.com/michaeljclark/bignum) - C++ bignum with support for arbitrary precision integer arithmetic.
 - [c128](https://github.com/michaeljclark/c128) - 128-bit integer type with logic, shifts, arithmetic and bitmanip.
 - [c11atomic](https://github.com/michaeljclark/c11atomic) - C11 <stdatomic.h> compatibility headers for MSVC++.
 - [chashmap](https://github.com/michaeljclark/chashmap) - simple open addressing hashmap, and linked hashmap in C11.

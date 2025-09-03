@@ -10,6 +10,7 @@
 - [cpuident](https://github.com/michaeljclark/cpuident) - a portable C program to read x86-64 cpuid processor information.
 - [cutty](https://github.com/michaeljclark/cutty) - an OpenGL terminal emulator using FreeType and HarfBuzz.
 - [emu](https://github.com/michaeljclark/emu) - tiny x86 emulator example using the Windows Hypervisor Platform API.
+- [ephembra](https://github.com/ephembra/ephembra) - an OpenGL solar system demo using the JPL DE440 Ephemerides.
 - [glcube](https://github.com/michaeljclark/glcube) - glcube is OpenGL cube demo in C11 using programmable shaders.
 - [glhull](https://github.com/michaeljclark/glhull) - glhull is an experiment to render béziergon convex interior hulls.
 - [glome](https://github.com/michaeljclark/glome) - glome is a tesselated octahedron demo using a nanovg 3D canvas.

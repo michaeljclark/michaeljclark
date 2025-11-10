@@ -45,3 +45,4 @@
 - [phydate](https://gist.github.com/michaeljclark/28dc095e0f0385e8eb2568349071712e) - a 128-bit variable width datetime format.
 - [pythag-triples](https://gist.github.com/michaeljclark/96b378046ed821fec3b7aaa42143597e) - find largest 32-bit Pythagorean integer triple with a 64-bit square.
 - [ref-counting](https://gist.github.com/michaeljclark/5a5c1463a5a0a1444f936e8f149bae2e) - draft on the design of a reference counting system.
+- [spinlock](https://gist.github.com/michaeljclark/c84dc21b0854d6314f39ccf66ef8f7a9) - queued ticket lock in C with one-way tickets for trylock.

@@ -47,4 +47,5 @@
 - [phydate](https://gist.github.com/larkmjc/28dc095e0f0385e8eb2568349071712e) - a 128-bit variable width datetime format.
 - [pythag-triples](https://gist.github.com/larkmjc/96b378046ed821fec3b7aaa42143597e) - find largest 32-bit Pythagorean integer triple with a 64-bit square.
 - [ref-counting](https://gist.github.com/larkmjc/5a5c1463a5a0a1444f936e8f149bae2e) - draft on the design of a reference counting system.
+- [object-runtime](https://gist.github.com/larkmjc/74576e63a64888e5e180214c6b5800d0) - sketch for reference-counted objects, arrays, lists, and strings in C.
 - [spinlock](https://gist.github.com/larkmjc/c84dc21b0854d6314f39ccf66ef8f7a9) - queued ticket lock in C with one-way tickets for trylock.

@@ -19,6 +19,7 @@
 - [glyph](https://github.com/larkmjc/glyph) -  super regular RISC that encodes constants in immediate blocks.
 - [glxsync](https://github.com/larkmjc/glxsync) - glxsync extended frame synchronization for OpenGL with X11.
 - [graphstorm](https://github.com/larkmjc/graphstorm) - an OpenGL/OpenCL-accelerated force-directed graph layout demo.
+- [llvlir](https://github.com/larkmjc/llvlir) - rough draft of a low-level variable-length intermediate representation.
 - [maj2random](https://github.com/larkmjc/maj2random) - maj2random is a floating-point hash function derived from SHA-2.
 - [match](https://github.com/larkmjc/match) - Rabin–Karp algorithm in C++ to find recurring substrings in a string.
 - [mule](https://github.com/larkmjc/mule) - simple thread pool implementation using the C11 thread support library.

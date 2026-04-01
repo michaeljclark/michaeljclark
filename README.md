@@ -13,7 +13,7 @@
 - [ephembra](https://github.com/ephembra/ephembra) - an OpenGL solar system demo using the JPL DE440 Ephemerides.
 - [glcube](https://github.com/larkmjc/glcube) - glcube is an OpenGL cube demo in C11 using programmable shaders.
 - [glhash](https://github.com/larkmjc/glhash) = glhash is an OpenGL compute shader implementing SHA-2-256 in GLSL.
-- [glhull](https://github.com/larkmjc/glhull) - glhull is an experiment to render béziergon convex interior hulls.
+- [glhull](https://github.com/larkmjc/glhull) - glhull is an experiment to render a béziergon convex decomposition.
 - [glome](https://github.com/larkmjc/glome) - glome is a tesselated octahedron demo using a nanovg 3D canvas.
 - [glyb](https://github.com/larkmjc/glyb) -  text rendering and canvas experiment built on FreeType and HarfBuzz.
 - [glyph](https://github.com/larkmjc/glyph) -  super regular RISC that encodes constants in immediate blocks.
